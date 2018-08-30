@@ -13,11 +13,14 @@
     "express": "~4.16.0",
     "hbs": "~4.0.1",
     "mongoose": "~4.13.4",
+    "mongoose-timestamp": "^0.6.0",
     "morgan": "~1.9.0",
     "node-sass-middleware": "0.11.0",
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1",
     "nodemon": "^1.12.1"
   }
 }
